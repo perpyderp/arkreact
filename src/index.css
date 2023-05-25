@@ -1,6 +1,12 @@
+@font-face {
+  font-family: 'ark-font';
+  src: url('../public/fonts/ARK-Regular.ttf') format('truetype');
+  /* You can specify additional formats for better browser compatibility */
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'ark-font', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
