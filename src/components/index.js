@@ -1,9 +1,7 @@
-import About from "./About";
-import Documentation from "./Documentation";
-import Home from "./Home";
+import Header from "./Header/Header";
+import ApiDemoView from "./ApiDemoView/ApiDemoView";
 
 export {
-    About,
-    Documentation,
-    Home
+    Header,
+    ApiDemoView
 };
