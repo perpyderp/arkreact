@@ -6,8 +6,10 @@
 .App {
   --main-bg-color: #E8F6EF;
   --header-bg-color: #1B9C85;
+  color: #1b1b22;
   text-align: center;
   min-height: 100vh;
+  min-width: 100vw;
   display: flex;
   flex-direction: column;
   background-color: var(--main-bg-color);
@@ -90,21 +92,12 @@
   background-color: #383847;
 }
 
-#introduction {
-  background-color: var(--header-bg-color);
-  padding: 1.5% 5%;
-}
-
 .header-logo-homelink {
   color: inherit;
   display: flex;
   padding: 0.25em 0.5em;
   height: 90%;
   text-decoration: none;
-}
-
-.api-test-container {
-  padding: 2% 5%;
 }
 
 h1 {
