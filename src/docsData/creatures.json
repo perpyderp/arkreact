@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Creatures",
+        "description": "There are various different creatures found on in Ark. Creatures come with different temperaments, diets, and may be tameable by a survivor.",
+        "exampleRequest": "creatures/",
+        "exampleResponse": [
+            {
+                "_id": "64531a0474c2ca70428f53a7",
+                "name": "Achatina",
+                "diet": "Herbivore",
+                "temperament": "Passive",
+                "tameable": "Yes",
+                "rideable": "No",
+                "breedable": "Yes",
+                "saddleLevelObtained": "Unknown",
+                "creatureID": "Achatina_Character_BP_C",
+                "url": "https://ark.fandom.com/wiki/Achatina"
+                },
+                {
+                "_id": "64531a0474c2ca70428f53a8",
+                "name": "Acrocanthosaurus",
+                "diet": "Carnivore",
+                "temperament": "Aggressive",
+                "tameable": "Yes",
+                "rideable": "Yes",
+                "breedable": "Yes",
+                "saddleLevelObtained": "Bareback",
+                "creatureID": "Acrocanthosaurus_Character_BP_C",
+                "url": "https://ark.fandom.com/wiki/Acrocanthosaurus"
+                },
+                {
+                "_id": "64531a0474c2ca70428f53a9",
+                "name": "Allosaurus",
+                "diet": "Carnivore",
+                "temperament": "Aggressive",
+                "tameable": "Yes",
+                "rideable": "Yes",
+                "breedable": "Yes",
+                "saddleLevelObtained": "Bareback",
+                "creatureID": "Allo_Character_BP_C",
+                "url": "https://ark.fandom.com/wiki/Allosaurus"
+                },
+                {
+                "_id": "64531a0474c2ca70428f53aa",
+                "name": "Ammonite",
+                "diet": "Bottom Feeder",
+                "temperament": "Passive",
+                "tameable": "No",
+                "rideable": "No",
+                "breedable": "No",
+                "saddleLevelObtained": "N/A",
+                "creatureID": "Ammonite_Character_C",
+                "url": "https://ark.fandom.com/wiki/Ammonite"
+                },
+                {
+                "_id": "64531a0474c2ca70428f53ab",
+                "name": "Andrewsarchus",
+                "diet": "Omnivore",
+                "temperament": "Opportunistic",
+                "tameable": "Yes",
+                "rideable": "Yes",
+                "breedable": "Yes",
+                "saddleLevelObtained": "Bareback",
+                "creatureID": "Andrewsarchus_Character_BP_C",
+                "url": "https://ark.fandom.com/wiki/Andrewsarchus"
+                }
+        ]
+    },
+    {
+        "name": "Creature Dossier",
+        "description": "There are various different creatures found on in Ark. Creatures come with different temperaments, diets, and may be tameable by a survivor.",
+        "exampleRequest": "creature-dossier/",
+        "exampleResponse": 
+        {
+                "_id": "64531a0474c2ca70428f53a7",
+                "name": "Achatina",
+                "species": "Achatina limusegnis",
+                "time": "Holocene",
+                "diet": "Herbivore",
+                "temperament": "Passive",
+                "dossier": {
+                    "wild": "Found mostly in marshes and jungles, Achatina limusegnis is a very slow, very non-threatening land mollusk. It might be the simplest creature on the Island to hunt, and while it only provides a small amount of meat and chitin, an easy meal is always of value on the Island. Unlike nearly every other creature on the Island, Achatina does not defecate normally. Instead, it secretes a thick, sticky substance. Achatina leaves trails of this slime, but the trails are so thin that they crumble to dust quickly.",
+                    "domesticated": "There is a very disgusting, but useful fact about Achatina that causes tribes to seek to tame them: its secretions are chemically similar to the 'Cementing Paste' and 'Organic Polymer' used by many tribes for building materials. Tamed Achatina naturally accumulates this slime over time, which can then be collected at the tribe's convenience. Legend has it that Achatina can be tamed with a special 'cake' made from harvested crops & resources."
+                }
+        }
+    }
+
+]
