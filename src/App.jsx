@@ -26,7 +26,9 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <RouterProvider router={router} />
+      <main className="site-content">
+        <RouterProvider router={router} />
+      </main>
     </div>
   );
 }

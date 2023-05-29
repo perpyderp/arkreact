@@ -1,9 +1,11 @@
 import React from 'react';
 import { Logo } from '../../assets/images/index';
 
+import "./Header.css"
+
 const Header = () => {
     return(
-        <div className="site-header header-wrapper">
+        <div className="site-header">
             <header className="header-module-header">
                 <a className="header-logo-homelink" href="/">
                         <img src={Logo} alt="giga-logo"/>
