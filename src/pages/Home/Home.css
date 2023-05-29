@@ -1,0 +1,12 @@
+
+#introduction {
+    background-color: var(--header-bg-color);
+    padding: 1.5% 5%;
+}
+
+
+.api-test-container {
+    padding: 1% 0;
+    margin: 0 auto;
+    max-width: 55rem;
+}
