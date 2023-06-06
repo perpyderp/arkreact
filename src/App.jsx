@@ -1,6 +1,5 @@
 import './App.css';
 import { Home, About, Documentation } from './pages/index';
-import { Header } from "./components/index";
 
 import {
   createBrowserRouter,
@@ -25,10 +24,12 @@ const router = createBrowserRouter([
 function App() {
   return (
     <div className="App">
-      <Header />
       <main className="site-content">
         <RouterProvider router={router} />
       </main>
+      <footer className="site-footer">
+        
+      </footer>
     </div>
   );
 }
