@@ -1,11 +1,14 @@
 import React from "react";
 import { creatures, armors, eggTypes } from "../../docsData/index";
+import { AltHeader } from "../../components/index";
+
 import "./Documentation.css";
 import DocsApiContent from "../../components/DocsApiContent/DocsApiContent";
 
 const Documentation = () => {
     return (
         <>
+        <AltHeader />
         <div className="documentation-container">
             <nav className="documentation-side-navbar">
                 <ul className="documentation-side-list">

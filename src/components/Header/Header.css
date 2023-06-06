@@ -1,6 +1,13 @@
 .site-header {
     flex: none;
-    background-color: #4C4C6D;
+    position: absolute;
+    width: 100%;
+    z-index: 999; /* Ensure the navbar stays on top of other elements */
+    background-color: rgb(76, 76, 109, 0.4); /* Adjust the alpha value (0.7) to make it more or less transparent */
+}
+
+.opaque {
+    background-color: #383847;
 }
 
 .header-module-header {

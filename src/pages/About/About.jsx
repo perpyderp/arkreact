@@ -1,12 +1,15 @@
 import React from "react";
+import { AltHeader } from "../../components/index";
 
 import "./About.css";
 
 const About = () => {
     return (
+        <>
+        <AltHeader />
         <div className="shrink-width">
         <div className="about-container">
-            <h1>About</h1>
+            <h1 style={{fontSize: 50}}>About</h1>
             <h3 className="about-qa-title">What is ARK API?</h3>
             <p className="about-qa-desc">
                 ARK API is a RESTful API that gives detailed information on many objects related to the survival game ARK Survival Evolved.
@@ -29,6 +32,7 @@ const About = () => {
             </p>
         </div>
         </div>
+        </>
     );
 };
 
