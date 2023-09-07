@@ -3,13 +3,13 @@ import {
     RouterProvider,
 } from "react-router-dom";
 import { Home, Examples, About, Docs, Error } from "./pages";
-import { Navbar } from "./components";
+import { MainLayout } from "./components/MainLayout";
 
 const App: React.FC = () => {
 
     const router = createBrowserRouter([
         {
-            element: <Navbar />,
+            element: <MainLayout />,
             children: [
                 {
                     path: "/",

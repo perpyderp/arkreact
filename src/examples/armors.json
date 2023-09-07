@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "6456ebb39abbd347f105eec9",
+        "armorType": "Cloth Gear",
+        "unlockLevel": "3",
+        "armorRating": "50",
+        "coldProtection": "40",
+        "heatProtection": "60",
+        "weight": "3",
+        "durability": "25",
+        "foundIn": "White Beacon",
+        "ingredients": [
+            {
+                "_id": "64f8a9bbd80ee15d0f7d9c72",
+                "quantity": 145,
+                "material": "Fiber"
+            },
+            {
+                "_id": "64f8a9bbd80ee15d0f7d9c73",
+                "quantity": 10,
+                "material": "Hide"
+            }
+        ],
+        "url": "https://ark.fandom.com/wiki/Cloth_Armor"
+    },
+    {
+        "_id": "6456ebb39abbd347f105eeca",
+        "armorType": "Hide Gear",
+        "unlockLevel": "15",
+        "armorRating": "100",
+        "coldProtection": "85",
+        "heatProtection": "-25",
+        "weight": "10.5",
+        "durability": "45",
+        "foundIn": "Green Beacon",
+        "ingredients": [
+            {
+                "_id": "64f8a9bbd80ee15d0f7d9c74",
+                "quantity": 82,
+                "material": "Hide"
+            },
+            {
+                "_id": "64f8a9bbd80ee15d0f7d9c75",
+                "quantity": 33,
+                "material": "Fiber"
+            }
+        ],
+        "url": "https://ark.fandom.com/wiki/Hide_Armor"
+    }
+]

@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import { Link, Outlet } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { Giga } from "../assets/images";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
@@ -53,9 +53,6 @@ export const Navbar: React.FC = () => {
                 </li>
             </ul>
         </nav>
-        <main className="md:w-1/2 mx-auto">
-            <Outlet />
-        </main>
         </>
     )
 }

@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "64531a0474c2ca70428f53ab",
+        "name": "Andrewsarchus",
+        "diet": "Omnivore",
+        "temperament": "Opportunistic",
+        "tameable": "Yes",
+        "rideable": "Yes",
+        "breedable": "Yes",
+        "saddleLevelObtained": "Bareback",
+        "creatureID": "Andrewsarchus_Character_BP_C",
+        "url": "https://ark.fandom.com/wiki/Andrewsarchus"
+    },
+    {
+        "_id": "64531a0474c2ca70428f53bd",
+        "name": "Bulbdog",
+        "diet": "Herbivore",
+        "temperament": "Passive",
+        "tameable": "Yes",
+        "rideable": "No",
+        "breedable": "Yes",
+        "saddleLevelObtained": "Unknown",
+        "creatureID": "LanternPug_Character_BP_C",
+        "url": "https://ark.fandom.com/wiki/Bulbdog"
+    },
+    {
+        "_id": "64531a0474c2ca70428f53b1",
+        "name": "Arthropluera",
+        "diet": "Carrion-Feeder",
+        "temperament": "Aggressive",
+        "tameable": "Yes",
+        "rideable": "Yes",
+        "breedable": "Yes",
+        "saddleLevelObtained": "54",
+        "creatureID": "Arthro_Character_BP_C",
+        "url": "https://ark.fandom.com/wiki/Arthropluera"
+    },
+    {
+        "_id": "64531a0474c2ca70428f53c3",
+        "name": "Cnidaria",
+        "diet": "Carnivore",
+        "temperament": "Aggressive",
+        "tameable": "No",
+        "rideable": "No",
+        "breedable": "No",
+        "saddleLevelObtained": "N/A",
+        "creatureID": "Cnidaria_Character_BP_C",
+        "url": "https://ark.fandom.com/wiki/Cnidaria"
+    },
+    {
+        "_id": "64531a0474c2ca70428f53db",
+        "name": "Dragon",
+        "diet": "Unknown",
+        "temperament": "Aggressive",
+        "tameable": "No",
+        "rideable": "No",
+        "breedable": "No",
+        "saddleLevelObtained": "N/A",
+        "creatureID": "Dragon_Character_BP_Boss_C",
+        "url": "https://ark.fandom.com/wiki/Dragon"
+    }
+]

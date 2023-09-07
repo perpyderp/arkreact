@@ -3,7 +3,7 @@ import React from "react"
 export const About: React.FC = () => {
 
     return (
-        <>
+        <main className="w-1/2 mx-auto">
             <h1 className="text-4xl my-3">About</h1>
             <h3 className="text-2xl mt-2 mb-1">What is ARK API?</h3>
             <p className="text-base">
@@ -25,6 +25,6 @@ export const About: React.FC = () => {
                 I intend to keep adding more data even with ARK 2's release supposedly (hopefully) in late 2024. Feel free to visit my
                 <a className="text-light-green-2 hover:text-light-green-3 focus:text-dark-green-3" href="https://www.perp-cuison.com/"> personal portfolio</a> and message me about tips or pointers I can make to the API.
             </p>
-        </>
+        </main>
     )
 }
