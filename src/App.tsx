@@ -33,7 +33,7 @@ const App: React.FC = () => {
     ]);
 
     return (
-        <div className="bg-dark text-vanilla min-h-screen">
+        <div className="bg-dark text-vanilla min-h-screen pb-7">
             <RouterProvider router={router} />
         </div>
     );
