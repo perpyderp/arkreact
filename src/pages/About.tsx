@@ -3,7 +3,7 @@ import React from "react"
 export const About: React.FC = () => {
 
     return (
-        <main className="w-1/2 mx-auto">
+        <main className="w-1/2 mx-auto mt-4">
             <h1 className="text-4xl my-3">About</h1>
             <h3 className="text-2xl mt-2 mb-1">What is ARK API?</h3>
             <p className="text-base">

@@ -26,7 +26,7 @@ export const Docs: React.FC = () => {
     ]
 
     return (
-        <main className="w-1/2 mx-auto">
+        <main className="w-1/2 mx-auto mt-4">
             <h1 className="text-4xl">Documentation</h1>
             <p>
                 All endpoints only utilize the GET request method.

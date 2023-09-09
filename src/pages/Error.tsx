@@ -6,7 +6,7 @@ export const Error: React.FC = () => {
     const error: any = useRouteError();
 
     return (
-        <div>
+        <div className="mt-4">
             <h1 className="text-4xl">Oops!</h1>
             <p>Sorry, an unexpected error has occurred.</p>
             <p>
