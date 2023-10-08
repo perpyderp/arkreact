@@ -1,3 +1,4 @@
+import { FaSymbol, IconDefinition } from "@fortawesome/fontawesome-svg-core"
 
 export interface Armor {
     _id: String,
@@ -27,5 +28,6 @@ export interface Endpoint {
 
 export interface Data {
     section: String,
+    icon: IconDefinition,
     endpoints: Endpoint[]
 }

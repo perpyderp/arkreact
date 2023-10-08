@@ -1,0 +1,222 @@
+[
+    {
+    "_id": "64efc4e48686e4a081e81883",
+    "Item": "Cementing Paste",
+    "Rarity": "Common",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e81886",
+    "Item": "Clay",
+    "Rarity": "Common",
+    "Properties": {
+    "Renewable": false,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e8187f",
+    "Item": "Black Pearl",
+    "Rarity": "Rare",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e8188d",
+    "Item": "Element",
+    "Rarity": "Uncommon",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e8188f",
+    "Item": "Element Ore",
+    "Rarity": "Uncommon",
+    "Properties": {
+    "Renewable": false,
+    "Refinable": true,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e818a7",
+    "Item": "Prisminius/Dunkleosteus Armor Scrap",
+    "Rarity": "Common",
+    "Properties": {
+    "Renewable": false,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e81894",
+    "Item": "Fungal Wood",
+    "Rarity": "Common",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": true
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e8189d",
+    "Item": "Keratin",
+    "Rarity": "Common",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e81881",
+    "Item": "Blue Gem",
+    "Rarity": "Uncommon",
+    "Properties": {
+    "Renewable": false,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e81885",
+    "Item": "Chitin",
+    "Rarity": "Common",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e8188a",
+    "Item": "Corrupted Wood",
+    "Rarity": "Common",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": true
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e81892",
+    "Item": "Flint",
+    "Rarity": "Common",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e81898",
+    "Item": "Green Gem",
+    "Rarity": "Common",
+    "Properties": {
+    "Renewable": false,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e818b5",
+    "Item": "Red Crystalized Sap",
+    "Rarity": "Uncommon",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e818b6",
+    "Item": "Red Gem",
+    "Rarity": "Uncommon",
+    "Properties": {
+    "Renewable": false,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e818be",
+    "Item": "Silk",
+    "Rarity": "Common",
+    "Properties": {
+    "Renewable": false,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e8187c",
+    "Item": "Ammonite Bile",
+    "Rarity": "Rare",
+    "Properties": {
+    "Renewable": false,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e8187d",
+    "Item": "AnglerGel",
+    "Rarity": "Uncommon",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": true
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e8189e",
+    "Item": "Leech Blood",
+    "Rarity": "Uncommon",
+    "Properties": {
+    "Renewable": false,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    },
+    {
+    "_id": "64efc4e48686e4a081e81888",
+    "Item": "Congealed Gas Ball",
+    "Rarity": "Uncommon",
+    "Properties": {
+    "Renewable": true,
+    "Refinable": false,
+    "Combustible": false
+    },
+    "properties": []
+    }
+    ]

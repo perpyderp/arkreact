@@ -15,7 +15,7 @@ export const Navbar: React.FC = () => {
             <div className="z-50 md:w-auto w-full flex justify-between">
                 <span className="text-2xl cursor-pointer">
                     <img className="h-10 inline md:cursor-pointer" src={Giga} alt="Giga" />
-                    <Link to="/" className="ml-2">Ark API</Link>
+                    <Link to="/" className="ml-2 hover:text-dark-green-2 ease-in-out duration-150">Ark API</Link>
                 </span>
                 <div className="md:hidden text-2xl" onClick={()=>setOpen(!open)}>
                     { open ? <FontAwesomeIcon icon={faXmark} shake/> : <FontAwesomeIcon icon={faBars} /> }
@@ -23,33 +23,24 @@ export const Navbar: React.FC = () => {
             </div>
             <ul className="hidden md:flex md:items-center">
                 <li>
-                    <Link to="/about" className="text-xl mx-4 md:my-0">About</Link>
+                    <Link to="/about" className="text-xl mx-4 md:my-0 hover:text-dark-green-2 ease-in-out duration-150">About</Link>
                 </li>
                 <li>
-                    <Link to="/examples" className="text-xl mx-4 md:my-0">Examples</Link>
-                </li>
-                <li>
-                    <Link to="/docs" className="text-xl mx-4 md:my-0">Docs</Link>
-                </li>
-                <li>
-                    <Link to="/" className="text-xl mx-4 md:my-0">Ark Tame Helper</Link>
+                    <Link to="/docs" className="text-xl mx-4 md:my-0 hover:text-dark-green-2 ease-in-out duration-150">Docs</Link>
                 </li>
             </ul>
             {/* Mobile navbar*/}
             <ul 
                 className={`md:hidden bg-dark-green absolute mt-3 w-full h-full bottom-0 py-20 pl-4
-                duration-500 ${open ? "left-0" : "left-[-100%]"}`}>
+                duration-500 ${open ? "left-0" : "left-[-100%]"} z-20`}>
                 <li>
-                    <Link to="/about" className="text-xl mx-4 my-3 inline-block">About</Link>
+                    <Link to="/about" className="text-xl mx-4 my-3 inline-block hover:text-dark-green-2 ease-in-out duration-150">About</Link>
                 </li>
                 <li>
-                    <Link to="/examples" className="text-xl mx-4 my-3 inline-block">Examples</Link>
+                    <Link to="/examples" className="text-xl mx-4 my-3 inline-block hover:text-dark-green-2 ease-in-out duration-150">Examples</Link>
                 </li>
                 <li>
-                    <Link to="/docs" className="text-xl mx-4 my-3 inline-block">Docs</Link>
-                </li>
-                <li>
-                    <Link to="/" className="text-xl mx-4 my-3 inline-block">Ark Tame Helper</Link>
+                    <Link to="/docs" className="text-xl mx-4 my-3 inline-block hover:text-dark-green-2 ease-in-out duration-150">Docs</Link>
                 </li>
             </ul>
         </nav>

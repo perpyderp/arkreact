@@ -1,0 +1,279 @@
+[
+    {
+    "_id": "64efc470950ab48fb2ee01f1",
+    "name": "N/A",
+    "message": "",
+    "HUD_Text": "HUD Text: A surge of energy allows you to control the Megapithecus for a short time",
+    "information": "Information: It is the timer before the Megapithecus despawned after you purchased it in the mission Survive the ARK (Genesis: Part 2) , it last 60 seconds",
+    "note": [],
+    "img_src": [
+    "/images/thumb/e/e1/Positive_Buff.png/100px-Positive_Buff.png",
+    "/images/thumb/7/75/Missing.png/80px-Missing.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0205",
+    "name": "Fast Learner",
+    "message": "",
+    "HUD_Text": "",
+    "information": "Information: This status effect is inflicted to nearby dinos by standing next to a recently petted  Lystrosaurus. XP will be doubled for a specific time until it requires petting again.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/e/e1/Positive_Buff.png/100px-Positive_Buff.png",
+    "/images/thumb/9/9d/Broth_of_Enlightenment_Buff.png/80px-Broth_of_Enlightenment_Buff.png",
+    "/images/thumb/9/93/Lystrosaurus.png/20px-Lystrosaurus.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee01f7",
+    "name": "Cloaked",
+    "message": "Message: You are being cloaked by a shadowmane",
+    "HUD_Text": "",
+    "information": "Information: Only with females Shadowmane . You're invisible to wild dinos until you get too close",
+    "note": [],
+    "img_src": [
+    "/images/thumb/e/e1/Positive_Buff.png/100px-Positive_Buff.png",
+    "/images/thumb/3/38/Cloaked.png/80px-Cloaked.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee01f0",
+    "name": "N/A",
+    "message": "",
+    "HUD_Text": "HUD Text: A surge of energy allows you to control the Broodmother Lysrix for a short time",
+    "information": "Information: It is the timer before the Broodmother Lysrix despawned after you purchased it in the mission Survive the ARK (Genesis: Part 2) , it last 60 seconds",
+    "note": [],
+    "img_src": [
+    "/images/thumb/e/e1/Positive_Buff.png/100px-Positive_Buff.png",
+    "/images/thumb/7/75/Missing.png/80px-Missing.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee021a",
+    "name": "Poison Immunity Element",
+    "message": "",
+    "HUD_Text": "",
+    "information": "Information: This status effect is inflicted when eating  Ascerbic Mushroom. Effect stacks with each consumption. Renders user immune to Fertile Spores debuff. (or reduce countdown if already in effect).",
+    "note": [],
+    "img_src": [
+    "/images/thumb/e/e1/Positive_Buff.png/100px-Positive_Buff.png",
+    "/images/thumb/1/13/Condition_ChargeSpore_Immune.png/80px-Condition_ChargeSpore_Immune.png",
+    "/images/thumb/d/dd/Ascerbic_Mushroom.png/20px-Ascerbic_Mushroom.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0239",
+    "name": "Encumbered",
+    "message": "Message: You're encumbered! Drop some inventory weight in order to move again!",
+    "HUD_Text": "HUD Text: Can't run and can't jump.",
+    "information": "Information: When mounted, remember that your  Weight is added to your mount's total weight limit; dropping items from your personal inventory will reduce weight for both you and the mount. This status appears when you are carrying at least 85% of your weight stat. Move speed begins to drop slightly before this status appears (e.g. at 75% weight, your speed is reduced to ~75%).",
+    "note": [],
+    "img_src": [
+    "/images/thumb/8/87/Neutral_Buff.png/100px-Neutral_Buff.png",
+    "/images/thumb/d/d7/Encumbered.png/80px-Encumbered.png",
+    "/images/thumb/6/6f/Weight.png/20px-Weight.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0240",
+    "name": "Frozen!",
+    "message": "",
+    "HUD_Text": "HUD Text: Your movement speed is decreased!",
+    "information": "Information: This effect is applied for 10 seconds when frozen by an  Ice Wyvern. Decreases  Movement Speed.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/8/87/Neutral_Buff.png/100px-Neutral_Buff.png",
+    "/images/thumb/8/80/Hypothermia.png/80px-Hypothermia.png",
+    "/images/thumb/4/41/Ice_Wyvern.png/20px-Ice_Wyvern.png",
+    "/images/thumb/e/e1/Movement_Speed.png/20px-Movement_Speed.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee025f",
+    "name": "Rapid Regeneration",
+    "message": "",
+    "HUD_Text": "HUD Text: Rapid Regeneration",
+    "information": "Information: This status occurs when a  Argentavis is biting/devouring a corpse. Rapidly recovers  Health and  Stamina at an alarming rate for 20 seconds.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/8/87/Neutral_Buff.png/100px-Neutral_Buff.png",
+    "/images/thumb/7/7a/Rapid_Regeneration.png/80px-Rapid_Regeneration.png",
+    "/images/thumb/7/77/Argentavis.png/20px-Argentavis.png",
+    "/images/thumb/9/94/Health.png/20px-Health.png",
+    "/images/thumb/8/8d/Stamina.png/20px-Stamina.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0265",
+    "name": "RUN",
+    "message": "",
+    "HUD_Text": "",
+    "information": "Information: This status is inflicted to a  Tusoteuthis when it creates an ink cloud that acts as a smoke screen, providing an opportunity for the  Tusoteuthis to flee a battle and escape.  Movement Speed is increased by 30%. Lasts for 8 seconds with a 7 second cool down.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/8/87/Neutral_Buff.png/100px-Neutral_Buff.png",
+    "/images/thumb/0/06/RUN.png/80px-RUN.png",
+    "/images/thumb/3/37/Tusoteuthis.png/20px-Tusoteuthis.png",
+    "/images/thumb/3/37/Tusoteuthis.png/20px-Tusoteuthis.png",
+    "/images/thumb/e/e1/Movement_Speed.png/20px-Movement_Speed.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0271",
+    "name": "Tractor Beam (Grabbing)",
+    "message": "Message: A beam of energy is trying to trap you!",
+    "HUD_Text": "",
+    "information": "Information: This status occurs when the survivor or Creature is targeted by the tractor beam of a  Hover Skiff.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/8/87/Neutral_Buff.png/100px-Neutral_Buff.png",
+    "/images/thumb/4/49/Tractor_Beam_%28Grabbing%29.png/80px-Tractor_Beam_%28Grabbing%29.png",
+    "/images/thumb/0/01/Unassembled_TEK_Hover_Skiff.png/20px-Unassembled_TEK_Hover_Skiff.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0286",
+    "name": "Cocooned",
+    "message": "",
+    "HUD_Text": "HUD Text: Your movement speed is decreased!",
+    "information": "Information: This status effect is inflicted by  Reaper King's projectile. Reduces your  Movement Speed by 75% for 10 seconds.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/1/13/Negative_Buff.png/100px-Negative_Buff.png",
+    "/images/thumb/0/02/Cocoon.png/80px-Cocoon.png",
+    "/images/thumb/5/5e/Reaper_King.png/20px-Reaper_King.png",
+    "/images/thumb/e/e1/Movement_Speed.png/20px-Movement_Speed.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee029d",
+    "name": "Injured",
+    "message": "Message: You're injured! Recover some health in order to move properly again.",
+    "HUD_Text": "HUD Text: Can't jump, run, recover stamina, slower movement, and Torpidity increases faster.",
+    "information": "Information: This effect is applied to players when their  Health falls below 30.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/1/13/Negative_Buff.png/100px-Negative_Buff.png",
+    "/images/thumb/5/57/Injured.png/80px-Injured.png",
+    "/images/thumb/9/94/Health.png/20px-Health.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee02a0",
+    "name": "Leeched",
+    "message": "Message: Leeched!",
+    "HUD_Text": "HUD Text: Your Health and Stamina is slowly being drained! Get it off!!!",
+    "information": "Information: A leech is currently attached to you or your creature. Remove it by standing in a fire or pressing E to remove it from your creatures.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/1/13/Negative_Buff.png/100px-Negative_Buff.png",
+    "/images/thumb/9/90/Leeched.png/80px-Leeched.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee02aa",
+    "name": "Rare Flower Pheromones",
+    "message": "",
+    "HUD_Text": "HUD Text: Provokes aggression from nearby dinosaurs.",
+    "information": "Information: This debuff is inflicted after eating a  Rare Flower. It causes nearby creatures to attack you, regardless of that creature's usual aggression level. Lasts for 10 seconds.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/1/13/Negative_Buff.png/100px-Negative_Buff.png",
+    "/images/thumb/2/27/Rage.png/80px-Rage.png",
+    "/images/thumb/b/bb/Rare_Flower.png/20px-Rare_Flower.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0228",
+    "name": "Bio Grapple Cooldown",
+    "message": "",
+    "HUD_Text": "",
+    "information": "Information: This status occurs when grappling a Creature with the  Bloodstalker. Prevents the  Bloodstalker from grappling other Creatures until the cooldown wears off.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/8/87/Neutral_Buff.png/100px-Neutral_Buff.png",
+    "/images/thumb/0/03/Bio_Grapple_Cooldown.png/80px-Bio_Grapple_Cooldown.png",
+    "/images/thumb/1/1a/Bloodstalker.png/20px-Bloodstalker.png",
+    "/images/thumb/1/1a/Bloodstalker.png/20px-Bloodstalker.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0232",
+    "name": "Cold",
+    "message": "Message: You're cold. You should find some warmth soon.",
+    "HUD_Text": "HUD Text: Food decreases faster as the ambient temperature gets lower.",
+    "information": "Information: This is a Temperature status, and is affected by many different sources, including: Current Air Temp, Heat Sources (like fires), Swimming, Clothing, and Shelter.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/8/87/Neutral_Buff.png/100px-Neutral_Buff.png",
+    "/images/thumb/6/6b/Cold.png/80px-Cold.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0243",
+    "name": "Hardened",
+    "message": "",
+    "HUD_Text": "HUD Text: Hardened: Damage reduction, prevent dismount",
+    "information": "Information: This status occurs when a  Stegosaurus is using the hardened plate mode. The buff increases damage reduction and prevents the rider from being dismounted.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/8/87/Neutral_Buff.png/100px-Neutral_Buff.png",
+    "/images/thumb/6/6c/Hardened.png/80px-Hardened.png",
+    "/images/thumb/c/cd/Stegosaurus.png/20px-Stegosaurus.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0258",
+    "name": "Pack Leader",
+    "message": "",
+    "HUD_Text": "",
+    "information": "Information: This status effect is added towards the current highest-leveled pack-affected dino nearby, and adds a 33% increase in damage dealt for the duration. The buff will be constant in the  Allosaurus,  Compy,  Kentrosaurus,  Hyaenodon,  Ravager, and  Deinonychus. The buff is triggered by a call from the pack leader for the  Direwolf and the  Raptor, lasting 90 seconds for the Direwolf and 45 seconds for the Raptor.",
+    "note": [],
+    "img_src": [
+    "/images/thumb/8/87/Neutral_Buff.png/100px-Neutral_Buff.png",
+    "/images/thumb/1/17/PackLeader.png/80px-PackLeader.png",
+    "/images/thumb/7/77/Allosaurus.png/20px-Allosaurus.png",
+    "/images/thumb/9/92/Compy.png/20px-Compy.png",
+    "/images/thumb/2/20/Kentrosaurus.png/20px-Kentrosaurus.png",
+    "/images/thumb/9/9e/Hyaenodon.png/20px-Hyaenodon.png",
+    "/images/thumb/c/ca/Ravager.png/20px-Ravager.png",
+    "/images/thumb/4/4e/Deinonychus.png/20px-Deinonychus.png",
+    "/images/thumb/1/10/Direwolf.png/20px-Direwolf.png",
+    "/images/thumb/0/08/Raptor.png/20px-Raptor.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee0290",
+    "name": "Freezing",
+    "message": "Message: You're freezing! Find some warmth, quickly!",
+    "HUD_Text": "HUD Text: Food decreases much faster as the ambient temperature gets lower.",
+    "information": "Information: This is a Temperature status, and is affected by many different sources, including: Current Air Temp, Heat Sources (like fires), Swimming, Clothing, and Shelter. You will also slowly lose  Health while you are Freezing. ",
+    "note": [
+    "Fria Curry can give 56 hypothermal insulation for 15 minutes.",
+    "When equipping a piece of armour the hypothermal and hyperthermal insulation value is slightly increased (approx. 1.15x stated value)."
+    ],
+    "img_src": [
+    "/images/thumb/1/13/Negative_Buff.png/100px-Negative_Buff.png",
+    "/images/thumb/8/80/Hypothermia.png/80px-Hypothermia.png",
+    "/images/thumb/9/94/Health.png/20px-Health.png"
+    ]
+    },
+    {
+    "_id": "64efc470950ab48fb2ee02ab",
+    "name": "Sandstorm",
+    "message": "Message: Go inside and protect yourself from the Sandstorm!",
+    "HUD_Text": "",
+    "information": "Information: This status occurs on the Scorched Earth and Ragnarok map by being outside within any part of desert while in a Sandstorm. It will severely limit your visibility, as well as prevent sprinting and drain  Stamina and slowly add  Sand into your inventory. Anything you may be riding is also prevented from sprinting and loses stamina. ",
+    "note": [
+    "Entering a  Tent, hiding underground and in a cave, or going indoors will protect you from the sand and stamina drain. Wearing the  Desert Goggles and Hat will save your visibility."
+    ],
+    "img_src": [
+    "/images/thumb/1/13/Negative_Buff.png/100px-Negative_Buff.png",
+    "/images/thumb/b/b7/Sandstorm.png/80px-Sandstorm.png",
+    "/images/thumb/8/8d/Stamina.png/20px-Stamina.png",
+    "/images/thumb/a/a7/Sand.png/20px-Sand.png",
+    "/images/thumb/1/1d/Tent.png/20px-Tent.png",
+    "/images/thumb/8/82/Desert_Goggles_and_Hat.png/20px-Desert_Goggles_and_Hat.png"
+    ]
+    }
+    ]

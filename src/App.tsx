@@ -2,7 +2,7 @@ import {
     createBrowserRouter,
     RouterProvider,
 } from "react-router-dom";
-import { Home, Examples, About, Docs, Error } from "./pages";
+import { Home, About, Docs, Error } from "./pages";
 import { MainLayout } from "./components/MainLayout";
 
 const App: React.FC = () => {
@@ -19,10 +19,6 @@ const App: React.FC = () => {
                 {
                     path: "/about",
                     element: <About />,
-                },
-                {
-                    path: "/examples",
-                    element: <Examples />,
                 },
                 {
                     path: "/docs",
